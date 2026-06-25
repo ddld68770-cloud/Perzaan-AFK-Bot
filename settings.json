@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AnimalParkSMP.aternos.me:50978",
+    "ip": "AnimalParkSMP.aternos.me",
     "port": 50978,
     "version": "1.21.1"
   },
